@@ -1,1 +1,1 @@
-# CodeBasics-PowerBI-Challenges
+# CodeBasics Power BI Challenges 📊
